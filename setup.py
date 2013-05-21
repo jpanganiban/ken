@@ -6,7 +6,7 @@ with open('README.txt', 'r') as f:
 
 
 setup(name="ken",
-      version="9001.0.2",
+      version="9001.0.3",
       description="Ken is over 9000",
       long_description=long_description,
       py_modules=["ken"],
